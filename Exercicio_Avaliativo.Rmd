@@ -1,6 +1,9 @@
 ---
 title: "Atividade Avaliativa"
 output: pdf_document
+
+#Ciência de Dados
+#Grupo: Marcos Junior Magalhães dos Santos, Gilmar Penido de Souza
 ---
 install.packages("ISLR")
 install.packages("MASS")
